@@ -1,3 +1,12 @@
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 theme: jekyll-theme-minimal
 title: Open Source Code Assistant in Local: Ollama + Codellama + Continue 
 description:  In this blog, let’s explore an open source and cost effective alternative that utilizes local LLMs.
