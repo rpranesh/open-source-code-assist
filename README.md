@@ -44,7 +44,7 @@ ollama pull codellama
 ```
 # Installing the IDE Extension
 To install 'Continue', an open-source AI code assistant, follow these steps:
-VSCode:
+# VS Code:
 1. Run:
 ```bash
 code --install-extension continue.continue
