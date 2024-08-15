@@ -78,16 +78,16 @@ code --install-extension continue.continue
 
 Now, we are all set to use our locally installed LLM as a code assistant. We can ask questions, provide the context as a codebase or a particular file, auto code complete suggestions and many more.
 
-# PROS
+# Pros
 1. Cost: By using open-source software, organizations can avoid license costs for coding assistants and ensure that their codebase remains fully owned.
 2. Offline development: Developer can access this code assistant even when there is no internet connectivity enabling developers to work with code assistants offline.
 
-# CONS
+# Cons
 1. The performance of the code assistant depends on the hardware capability of the local machines.
 2. Needs some storage memory and RAM to install and run the LLMs locally.
    
 # Conclusion
-In our article, we illustrated the process of configuring a local open-source code assistant. Given the ongoing evolution of Gen AI, it will be intriguing to observe future models that specifically address local development requirements. If you have any inquiries or need additional guidance on setting up your local LLM solution, feel free to reach out!
+Our article provided a step-by-step guide to configuring a local open-source code assistant. Nevertheless, cloud-based solutions may be more suitable for those with limited machine resources or for enterprises that can accommodate the licensing costs. As Gen AI evolves, we can expect to see future models that address local development requirements. If you have any inquiries or require additional support in setting up your local LLM solution, we're here to help!"
 
 # References:
 https://www.continue.dev/
