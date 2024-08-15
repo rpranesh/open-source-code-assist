@@ -87,7 +87,7 @@ Now, we are all set to use our locally installed LLM as a code assistant. We can
 2. Needs some storage memory and RAM to install and run the LLMs locally.
    
 # Conclusion
-Our article provided a step-by-step guide to configuring a local open-source code assistant. Nevertheless, cloud-based solutions may be more suitable for those with limited machine resources or for enterprises that can accommodate the licensing costs. As Gen AI evolves, we can expect to see future models that address local development requirements. If you have any inquiries or require additional support in setting up your local LLM solution, we're here to help!"
+Our article provided a step-by-step guide to configuring a local open-source code assistant. Nevertheless, cloud-based solutions may be more suitable for those with limited machine resources or for enterprises that can accommodate the licensing costs. As Gen AI evolves, we can expect to see future models that address local development requirements. If you have any inquiries or require additional support in setting up your local LLM solution, we're here to help!
 
 # References:
 https://www.continue.dev/
